@@ -4,6 +4,7 @@ public class sinan1 {
 
         System.out.println("Hi group10");
         System.out.print("Hello from Burak");
+        System.out.println("hello brothers");
 
     }
 }
